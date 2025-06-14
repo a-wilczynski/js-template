@@ -1,0 +1,20 @@
+{
+  "name": "js-template",
+  "version": "1.0.0",
+  "description": "a simple js project template",
+  "homepage": "https://github.com/a-wilczynski/js-template#readme",
+  "bugs": {
+    "url": "https://github.com/a-wilczynski/js-template/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-wilczynski/js-template.git"
+  },
+  "license": "ISC",
+  "author": "Arkadiusz Wilczynski",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
